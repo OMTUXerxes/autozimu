@@ -1,0 +1,6 @@
+work/
+outputs/
+.venv/
+__pycache__/
+*.pyc
+HANDOFF.md
